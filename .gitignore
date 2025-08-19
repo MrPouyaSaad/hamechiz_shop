@@ -44,3 +44,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 assets/fonts/YekanBakhFaNum-Regular.ttf
+assets/images/logo.png
